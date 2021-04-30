@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
             <groupId>um.tds.modules</groupId>
-            <artifactId>cli</artifactId>
+            <artifactId>core</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>

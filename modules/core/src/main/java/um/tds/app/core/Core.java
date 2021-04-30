@@ -1,4 +1,4 @@
-package um.tds.app.cli.core;
+package um.tds.app.core;
 
 //Patron singleton para el nucleo de la aplicacion
 public class Core {

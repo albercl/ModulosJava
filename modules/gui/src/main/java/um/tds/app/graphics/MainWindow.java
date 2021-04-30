@@ -1,6 +1,6 @@
 package um.tds.app.graphics;
 
-import um.tds.app.cli.core.Core;
+import um.tds.app.core.Core;
 
 import javax.swing.*;
 

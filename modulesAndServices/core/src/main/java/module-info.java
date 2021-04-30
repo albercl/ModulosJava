@@ -1,4 +1,4 @@
-module tds.app.cli {
+module tds.app.core {
     requires java.base;
     requires java.desktop;
     requires tds.app.api.factory;

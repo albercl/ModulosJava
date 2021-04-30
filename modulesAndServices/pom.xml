@@ -15,7 +15,7 @@
 
     <modules>
         <module>gui</module>
-        <module>app</module>
+        <module>core</module>
         <module>api</module>
         <module>apiImpl1</module>
         <module>apiImpl2</module>

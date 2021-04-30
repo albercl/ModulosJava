@@ -17,6 +17,6 @@ public class MainWindow extends JFrame {
         setSize(500, 200);
         setTitle("TDS app");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        add(new JLabel("API cargada: " + appInstance.getApiName("um.tds.app.apiImpl2.ApiImpl2")));
+        add(new JLabel("API cargada: " + appInstance.getApiName("um.tds.app.apiImpl1.ApiImpl1")));
     }
 }
